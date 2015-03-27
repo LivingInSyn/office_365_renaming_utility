@@ -3,6 +3,8 @@ Renaming tool for UITS
 
 By Jeremy Mill 3-25-15
 jeremymill@gmail.com
+
+Licensed until the GPL v2.0
 '''
 #Import Statements
 import os
